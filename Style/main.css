@@ -26,6 +26,7 @@ body{
     text-decoration:none;    
 }
 
+
  header .logo{
     margin-left: 5px;
     color: var(--vermelho);
@@ -42,4 +43,49 @@ header nav a{
 
 header nav a:hover{
     color:#fff;
+}
+
+header .container{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+/*filme principal*/
+
+.filme-principal{
+    font-size:15px;
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%),  url('../img/filme-principal.jpg');
+
+    height:400px;
+    background-size:cover;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+
+.filme-principal .descricao{
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+
+.filme-principal .titulo{
+    margin-top: 15%;
+    font-size: 40px;
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+}
+
+
+.container{
+    margin-left: 20px;
+}
+
+.filme-principal .container{
+    width: 50%;
 }
