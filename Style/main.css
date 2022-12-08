@@ -71,13 +71,13 @@ header .container{
 
 .filme-principal .descricao{
     margin-top: 10px;
-    margin-bottom: 7px;
+    margin-bottom: 30px;
 }
 
 
 .filme-principal .titulo{
     margin-top: 15%;
-    font-size: 40px;
+    font-size: 30px;
     font-family: 'Trebuchet MS', Arial, sans-serif;
 }
 
