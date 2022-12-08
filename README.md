@@ -1,4 +1,4 @@
-<h2 align="center">Projeto Digital Innovation One HTML - #DIOFLIX</h2>
+<h2 align="center"> Projeto Digital Innovation One HTML </h2>
 
 ___
 
