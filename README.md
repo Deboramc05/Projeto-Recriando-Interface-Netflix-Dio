@@ -22,7 +22,3 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 - CSS3
 - JavaScript
 - JQuery
-
-
-
-
